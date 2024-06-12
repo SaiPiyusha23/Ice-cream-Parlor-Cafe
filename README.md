@@ -11,3 +11,10 @@ through which the function is performed.
 5. View Cart : After adding all the flavors to the cart the customer can view the cart.
 6. Search & Filter Offerings : This Provides option to search flavor is available or not.
 7. Exit : You can exit the process
+
+To run Dockerfile : These are following commands
+
+docker build -t icecream-parlor-cafe .
+Is used to  build docker image.
+docker run -it --rm --name icecream-parlor-cafe
+use and run dictionary
