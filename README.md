@@ -1,5 +1,5 @@
                                                   Welcome to the Ice Cream Parlor Cafe !!
-Im This Application "Ice Cream Parlor Cafe" created using some files namely schema file which contains tables ,sample data file which contains data about seasonal icecream flavor, ingrediants,suddestion data e.t.c,icecream parlor.py file contains the python code,docker file which contains
+This Application "Ice Cream Parlor Cafe" created using some files namely schema file which contains flavors table,inventory table,suggestions table,cart table. sample data file which contains data about seasonal icecream flavor, ingrediants,suddestion data e.t.c,icecream parlor.py file contains the python code,docker file which contains
 the dockor implementation part.Here iam describing about ice_cream_parlor.py file.The main menu consists of all these 7 functions in which the user can give the input
 through which the function is performed.
     These are the 7  funtions available in file  based customer can select accordingly. Detail Explanation of Each Function
