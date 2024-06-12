@@ -1,0 +1,1 @@
+#Here we don't require any external or other dependencies, because SQLite is already a part of Python libraries
